@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class GemsService {
 
-  private baseUrl = 'http://13.42.27.105:8081/employee';
+  private baseUrl = 'http://18.132.49.95:8081/employee';
 
   constructor(private http: HttpClient) { }
 
